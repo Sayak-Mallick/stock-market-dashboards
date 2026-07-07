@@ -32,7 +32,7 @@ import {
   CssBaseline,
   type PaletteMode,
 } from "@mui/material";
-import TrendingUpIcon from "@mui/icons-material/TrendingUpOutlined";
+import TrendingUpIcon from "@mui/icons-material/TrendingUp";
 import TrendingDownIcon from "@mui/icons-material/TrendingDownOutlined";
 import ShowChartIcon from "@mui/icons-material/ShowChart";
 import SpeedIcon from "@mui/icons-material/Speed";

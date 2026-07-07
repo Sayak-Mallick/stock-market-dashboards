@@ -14,7 +14,7 @@ export default function StatCard({ icon: Icon, label, hint, color = "primary", v
   return (
     <Card elevation={0} sx={{ height: "100%" }}>
       <CardContent sx={{ display: "flex", flexDirection: "column", gap: 1, "&:last-child": { pb: 2 } }}>
-        <Stack direction="row" alignItems="center" spacing={1}>
+        <Stack direction="row" spacing={1} sx={{ alignItems: "center" }}>
           <Avatar
             variant="rounded"
             sx={{
